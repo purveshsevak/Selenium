@@ -30,7 +30,7 @@ public class ValidateTitle extends base{
 	public void basePageNavigation() {
 		LandingPage lp = new LandingPage(driver);
 		String actualPageTitle = lp.getTitle().getText();
-		String expectedPageTitle = "FEATURED CO123URSES";
+		String expectedPageTitle = "FEATURED COURSES";
 		
 		Assert.assertEquals(actualPageTitle, expectedPageTitle);
 		log.info("Successfully validated the title");
