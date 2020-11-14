@@ -1,0 +1,7 @@
+00:44:13.153 [TestNG-tests-3] INFO  resources.base - 1st user
+00:44:19.032 [TestNG-tests-3] INFO  resources.base - 2nd user
+00:45:30.932 [TestNG-tests-1] INFO  resources.base - Driver is initialized
+00:45:37.551 [TestNG-tests-1] INFO  resources.base - Navigated to home page
+00:46:06.929 [TestNG-tests-1] INFO  resources.base - Driver is initialized
+00:46:32.171 [TestNG-tests-2] INFO  resources.base - Successfully validated the Navigation bar
+00:46:33.563 [TestNG-tests-1] INFO  resources.base - Navigated to home page
